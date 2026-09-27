@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+rapidfuzz
+lightgbm
+datasketch
+jellyfish
+unidecode

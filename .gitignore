@@ -1,0 +1,7 @@
+data/
+output/
+scratch/
+__pycache__/
+*.py[cod]
+.venv/
+.env
